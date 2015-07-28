@@ -1,8 +1,10 @@
-(module Connector_Molex_Micro-Latch_Top-Entry_05x2.0mm (layer F.Cu) (tedit 559B166F)
+(module Connector_Molex_MicroLatch_Vertical_05 (layer F.Cu) (tedit 559B166F)
+  (descr "Molex Micro Latch Connector, Top Entry, 2.00mm pitch")
+  (tags "Molex micro latch top entry connector")
   (fp_text reference REF** (at 0 -4.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Molex_Micro-Latch_Top_05x2.0mm (at 0 4) (layer F.Fab)
+  (fp_text value Connector_Molex_MicroLatch_Vertical_05 (at 0 4) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 4 2.25) (end 2 2.25) (layer F.SilkS) (width 0.15))
@@ -43,7 +45,7 @@
   (pad 3 thru_hole circle (at 0 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at 2 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 5 thru_hole circle (at 4 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
-  (model Connectors_Molex.3dshapes/Molex_MicroLatch_Vertical_05.wrl
+  (model Connectors_Molex.3dshapes/Connector_Molex_MicroLatch_Vertical_05.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
