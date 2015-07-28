@@ -1,7 +1,6 @@
 (module Connector_Molex_Panelmate_05 (layer F.Cu)
   (descr "PanelMate connector 5-way, Molex P/N 53780-0570, 1.25mm pitch")
-	(tags "Molex panel mate panelmate connector SMT")	
-
+	(tags "Molex panel mate panelmate connector SMT")
   (attr smd)
 (fp_text value Connector_Molex_Panelmate_05 (at 0 4.20116) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
