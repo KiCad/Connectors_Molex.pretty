@@ -1,6 +1,6 @@
 (module Molex_Microfit3_Header_02x12_Straight_43045-2428 (layer F.Cu) (tedit 55B5C947)
   (descr "Microfit3 Header Straight 02x12 43045-2428")
-  (tags "Microfit 02x12 header straight 3mm")
+  (tags "connector Microfit 02x12 header straight 3mm")
   (fp_text reference REF** (at -16.51 6.35) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

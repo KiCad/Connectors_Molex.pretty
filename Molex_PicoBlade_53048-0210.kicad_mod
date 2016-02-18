@@ -1,5 +1,6 @@
 (module Molex_PicoBlade_53048-0210 (layer F.Cu)
   (descr "Molex PicoBlade 1.25mm shrouded header. Vertical. 2 ways")
+  (tags "connector PicoBlade header")
   (fp_text reference REF** (at 0.625 -2.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

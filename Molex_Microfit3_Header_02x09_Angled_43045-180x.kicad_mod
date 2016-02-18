@@ -1,6 +1,6 @@
 (module Molex_Microfit3_Header_02x09_Angled_43045-180x (layer F.Cu) (tedit 55BBA990)
   (descr "Microfit3 02x09 heder angled 43045-1800")
-  (tags "Microfit 02x09 angled 3mm pitch")
+  (tags "connector Microfit 02x09 angled 3mm pitch")
   (fp_text reference REF** (at -11 11) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
