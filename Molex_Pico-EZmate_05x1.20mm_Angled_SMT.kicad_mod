@@ -1,5 +1,5 @@
-(module Molex_Pico-EZmate_05x1.20mm_Angled_SMT (layer F.Cu) (tedit 56D2E4AA)
-  (descr "Molex Pico-EZmate series connector, 1.20mm pitch, side entry SMT")
+(module Molex_Pico-EZmate_05x1.20mm_Angled_SMT (layer F.Cu) (tedit 56D2E603)
+  (descr "Molex Pico-EZmate series connector, 1.20mm pitch, side entry SMT, P/N: 78181-0005")
   (tags "connector molex pico ezmate side angled horizontal surface mount SMD SMT")
   (attr smd)
   (fp_text reference REF** (at 0 -5) (layer F.SilkS)
