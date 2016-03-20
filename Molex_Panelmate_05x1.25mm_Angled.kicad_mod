@@ -1,6 +1,6 @@
-(module Molex_Panelmate_05x1.25mm_Angled (layer F.Cu) (tedit 56D36706)
+(module Molex_Panelmate_05x1.25mm_Angled (layer F.Cu) (tedit 56EE9813)
   (descr "Molex Panelmate series connector, 1.25mm pitch, side entry SMT, P/N: 53780-0570")
-  (tags "connector molex panelmate side angled horizontal surface mount SMD SMT")
+  (tags "conn molex panelmate")
   (attr smd)
   (fp_text reference REF** (at 0 -5.49) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -31,8 +31,9 @@
   (pad 5 smd rect (at 2.5 -2.44) (size 0.8 2) (drill 0) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 5.35 2.44) (size 1.5 3.5) (drill 0) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -5.35 2.44) (size 1.5 3.5) (drill 0) (layers F.Cu F.Paste F.Mask))
-(model Connectors_Molex.3dshapes/Molex_Panelmate_05x1.25mm_Angled.wrl
-	(at (xyz 0.0 -0.0393700787402 0))
-	(scale (xyz 1 1 1))
-	(rotate (xyz 0 0 0)))
+  (model Connectors_Molex.3dshapes/Molex_Panelmate_05x1.25mm_Angled.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
