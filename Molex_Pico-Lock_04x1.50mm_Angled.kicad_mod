@@ -1,6 +1,6 @@
-(module Molex_Pico-Lock_04x1.50mm_Angled (layer F.Cu) (tedit 56D2F156)
+(module Molex_Pico-Lock_04x1.50mm_Angled (layer F.Cu) (tedit 56EE97A2)
   (descr "Molex Pico-Lock series connector, 1.50mm pitch, side entry SMT, P/N: 504051-0401")
-  (tags "connector molex pico lock side angled horizontal surface mount SMD SMT")
+  (tags "conn molex pico lock")
   (attr smd)
   (fp_text reference REF** (at 0 -5.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -30,8 +30,9 @@
   (pad 4 smd rect (at 2.25 -2.8) (size 0.8 1.2) (drill 0) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 4.675 2.8) (size 1.6 1.9) (drill 0) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -4.675 2.8) (size 1.6 1.9) (drill 0) (layers F.Cu F.Paste F.Mask))
-(model Connectors_Molex.3dshapes/Molex_Pico-Lock_04x1.50mm_Angled.wrl
-	(at (xyz 0.0 0.0944881889764 0))
-	(scale (xyz 1 1 1))
-	(rotate (xyz 0 0 180)))
+  (model Connectors_Molex.3dshapes/Molex_Pico-Lock_04x1.50mm_Angled.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
