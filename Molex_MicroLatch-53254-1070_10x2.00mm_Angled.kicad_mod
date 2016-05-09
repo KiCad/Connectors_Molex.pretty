@@ -1,10 +1,10 @@
-(module Molex_Micro-Latch_10x2.00mm_Angled (layer F.Cu) (tedit 56FF4A60)
+(module Molex_MicroLatch-53254-1070_10x2.00mm_Angled (layer F.Cu) (tedit 572FD9FF)
   (descr "Molex Micro-Latch connector, PN:53254-1070, side entry type, through hole")
   (tags "conn molex micro latch")
   (fp_text reference REF** (at 9 3.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Molex_Micro-Latch_10x2.00mm_Angled (at 9 -7.2) (layer F.Fab)
+  (fp_text value Molex_MicroLatch-53254-1070_10x2.00mm_Angled (at 9 -7.2) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.6 -6.55) (end -2.6 1.85) (layer F.CrtYd) (width 0.05))
@@ -118,7 +118,7 @@
   (pad 8 thru_hole circle (at 14 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 16 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 18 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
-  (model Connectors_Molex.3dshapes/Molex_Micro-Latch_10x2.00mm_Angled.wrl
+  (model Connectors_Molex.3dshapes/Molex_MicroLatch-53254-1070_10x2.00mm_Angled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
