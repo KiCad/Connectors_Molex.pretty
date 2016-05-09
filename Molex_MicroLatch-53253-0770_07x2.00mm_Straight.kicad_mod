@@ -1,10 +1,10 @@
-(module Molex_Micro-Latch_07x2.00mm_Straight (layer F.Cu) (tedit 56FF4B52)
+(module Molex_MicroLatch-53253-0770_07x2.00mm_Straight (layer F.Cu) (tedit 572FDA94)
   (descr "Molex Micro-Latch connector, PN:53253-0770, top entry type, through hole")
   (tags "conn molex micro latch")
   (fp_text reference REF** (at 6 3.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Molex_Micro-Latch_07x2.00mm_Straight (at 6 -3.5) (layer F.Fab)
+  (fp_text value Molex_MicroLatch-53253-0770_07x2.00mm_Straight (at 6 -3.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.6 -2.1) (end -2.6 2.75) (layer F.CrtYd) (width 0.05))
@@ -39,7 +39,7 @@
   (pad 5 thru_hole circle (at 8 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 10 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 12 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
-  (model Connectors_Molex.3dshapes/Molex_Micro-Latch_07x2.00mm_Straight.wrl
+  (model Connectors_Molex.3dshapes/Molex_MicroLatch-53253-0770_07x2.00mm_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
