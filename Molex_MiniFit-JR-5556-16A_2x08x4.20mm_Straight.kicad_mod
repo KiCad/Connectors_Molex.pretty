@@ -1,4 +1,4 @@
-(module Molex_MiniFit-JR-5556-16A_2x08x4.20mm_Straight (layer F.Cu) (tedit 57AF3A24)
+(module Molex_MiniFit-JR-5556-16A_2x08x4.20mm_Straight (layer F.Cu) (tedit 57B3D13F)
   (descr "Molex Mini-Fit JR, PN:5556-16A, dual row, top entry type, through hole")
   (tags "connector molex mini-fit 5556")
   (fp_text reference REF** (at 14.7 10) (layer F.SilkS)
@@ -127,6 +127,9 @@
   (pad 14 thru_hole circle (at 21 5.5) (size 2.8 2.8) (drill 1.4) (layers *.Cu *.Mask))
   (pad 15 thru_hole circle (at 25.2 5.5) (size 2.8 2.8) (drill 1.4) (layers *.Cu *.Mask))
   (pad 16 thru_hole circle (at 29.4 5.5) (size 2.8 2.8) (drill 1.4) (layers *.Cu *.Mask))
+  (fp_text user %R (at 14.7 10) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (model Connectors_Molex.3dshapes/Molex_MiniFit-JR-5556-16A_2x08x4.20mm_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
