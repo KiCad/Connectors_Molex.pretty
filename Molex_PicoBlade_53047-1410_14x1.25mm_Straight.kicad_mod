@@ -1,4 +1,4 @@
-(module Molex_PicoBlade_53047-1410_14x1.25mm_Straight (layer F.Cu) (tedit 57B5AD67)
+(module Molex_PicoBlade_53047-1410_14x1.25mm_Straight (layer F.Cu) (tedit 57BC10AE)
   (descr "Molex PicoBlade, single row, top entry type, through hole, PN:53047-1410")
   (tags "connector molex picoblade")
   (fp_text reference REF** (at 8.125 2.5) (layer F.SilkS)
@@ -50,6 +50,9 @@
   (pad 12 thru_hole circle (at 13.75 0) (size 0.85 0.85) (drill 0.5) (layers *.Cu *.Mask))
   (pad 13 thru_hole circle (at 15 0) (size 0.85 0.85) (drill 0.5) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 16.25 0) (size 0.85 0.85) (drill 0.5) (layers *.Cu *.Mask))
+  (fp_text user %R (at 8.125 -1.25) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (model Connectors_Molex.3dshapes/Molex_PicoBlade_53047-1410_14x1.25mm_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
