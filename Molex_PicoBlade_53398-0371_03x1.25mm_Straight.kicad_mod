@@ -1,5 +1,5 @@
-(module Molex_PicoBlade_53398-0371_03x1.25mm_Straight (layer F.Cu) (tedit 57C9984F)
-  (descr "Molex PicoBlade, single row, side entry type, surface mount, PN:53398-0371")
+(module Molex_PicoBlade_53398-0371_03x1.25mm_Straight (layer F.Cu) (tedit 57D1DE48)
+  (descr "Molex PicoBlade, single row, top entry type, surface mount, PN:53398-0371")
   (tags "connector molex picoblade smt")
   (attr smd)
   (fp_text reference REF** (at 0 -3.25) (layer F.SilkS)
