@@ -37,7 +37,7 @@
   (pad 6 smd rect (at -1.33 2.91) (size 1.9 2.38) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at -1.33 -0.84) (size 1.9 1.18) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at -1.33 0.84) (size 1.9 1.18) (layers F.Cu F.Paste F.Mask))
-  (model Connectors.3dshapes/USB_Micro-B_Molex_47346-0001.wrl
+  (model Connectors_Molex.3dshapes/USB_Micro-B_Molex_47346-0001.wrl
     (at (xyz -0.05 0 0.05))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz -90 0 90))
