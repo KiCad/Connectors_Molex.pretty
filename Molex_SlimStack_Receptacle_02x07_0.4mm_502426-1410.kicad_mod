@@ -1,4 +1,4 @@
-(module Molex_SlimStack_Receptacle_02x07_0.4mm_502426-1410 (layer F.Cu) (tedit 58C12858)
+(module Molex_SlimStack_Receptacle_02x07_0.4mm_502426-1410 (layer F.Cu) (tedit 58C146AD)
   (attr smd)
   (fp_text reference REF** (at 0 -2.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
