@@ -93,4 +93,9 @@
   (pad 14 thru_hole oval (at 33.02 0) (size 2 2.6) (drill 1.2) (layers *.Cu *.Mask))
   (pad 15 thru_hole oval (at 35.56 0) (size 2 2.6) (drill 1.2) (layers *.Cu *.Mask))
   (pad 16 thru_hole oval (at 38.1 0) (size 2 2.6) (drill 1.2) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_KK-6410-16_16x2.54mm_Straight.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
