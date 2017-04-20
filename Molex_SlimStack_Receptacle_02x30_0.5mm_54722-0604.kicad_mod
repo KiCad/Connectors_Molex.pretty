@@ -1,4 +1,4 @@
-(module Molex_SlimStack_Receptacle_02x30_0.5mm_54722-0604 (layer F.Cu) (tedit 58F8ADB4)
+(module Molex_SlimStack_Receptacle_02x30_0.5mm_54722-0604 (layer F.Cu) (tedit 58F8BBCC)
   (descr "Molex SlimStack receptacle, 02x30 contacts 0.5mm pitch 1.5mm height, http://www.molex.com/pdm_docs/sd/547220604_sd.pdf")
   (tags "connector molex slimstack 54722-0604")
   (attr smd)
@@ -12,6 +12,7 @@
   (fp_line (start -8.8 2.5) (end 8.8 2.5) (layer F.Fab) (width 0.1))
   (fp_line (start 8.8 2.5) (end 8.8 -2.5) (layer F.Fab) (width 0.1))
   (fp_line (start 8.8 -2.5) (end -8.8 -2.5) (layer F.Fab) (width 0.1))
+  (fp_line (start -7.6 -2.65) (end -7.6 -3.3) (layer F.Fab) (width 0.1))
   (fp_line (start -7.6 2.65) (end -8.95 2.65) (layer F.SilkS) (width 0.12))
   (fp_line (start -8.95 2.65) (end -8.95 -2.65) (layer F.SilkS) (width 0.12))
   (fp_line (start -8.95 -2.65) (end -7.6 -2.65) (layer F.SilkS) (width 0.12))
