@@ -1233,4 +1233,9 @@
   (pad 34 smd rect (at -3.325 2.78) (size 0.85 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 34 smd rect (at 5.675 2.78) (size 0.85 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 34 smd rect (at 3.325 2.78) (size 0.85 1.4) (layers F.Cu F.Paste F.Mask))
+  (model Connectors_Molex.3dshapes/Molex-FFC-502244-3330.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

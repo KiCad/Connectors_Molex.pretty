@@ -415,4 +415,9 @@
   (pad 15 smd rect (at -2.15 0.525) (size 0.32 0.35) (layers Dwgs.User))
   (pad 15 smd rect (at 2.15 -0.525) (size 0.32 0.35) (layers Dwgs.User))
   (pad 15 smd rect (at 2.15 0.525) (size 0.32 0.35) (layers Dwgs.User))
+  (model Connectors_Molex.3dshapes/Molex_SlimStack_Receptacle_02x07_0.4mm_502426-1410.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

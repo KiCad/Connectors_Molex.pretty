@@ -331,4 +331,9 @@
   (pad 10 thru_hole oval (at -2.9 -0.775) (size 1.2 2.4) (drill oval 0.6 1.7) (layers *.Cu *.Mask))
   (pad 10 thru_hole oval (at 9.9 7.725) (size 1.2 2.1) (drill oval 0.6 1.4) (layers *.Cu *.Mask))
   (pad 10 thru_hole oval (at -2.9 7.725) (size 1.2 2.1) (drill oval 0.6 1.4) (layers *.Cu *.Mask))
+  (model Connectors_Molex.3dshapes/USB3_A_MOLEX_SD-48393-001.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
