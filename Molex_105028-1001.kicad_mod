@@ -480,7 +480,7 @@
   (pad 33 smd rect (at 3.83 -5.305 90) (size 0.65 1.1) (layers F.Cu F.Paste F.Mask))
   (pad 33 smd rect (at -3.83 5.305 90) (size 0.65 1.1) (layers F.Cu F.Paste F.Mask))
   (pad 33 smd rect (at 3.83 5.305 90) (size 0.65 1.1) (layers F.Cu F.Paste F.Mask))
-  (model Connectors_Molex.3dshapes/Molex_105028-1001.wrl
+  (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_105028-1001.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -412,7 +412,7 @@
   (pad 15 smd rect (at 0.8 0.39) (size 0.3 0.27) (layers Dwgs.User))
   (pad 15 smd rect (at 1.2 -0.39) (size 0.3 0.27) (layers Dwgs.User))
   (pad 15 smd rect (at 1.2 0.39) (size 0.3 0.27) (layers Dwgs.User))
-  (model Connectors_Molex.3dshapes/Molex_SlimStack_Plug_02x07_0.4mm_502430-1410.wrl
+  (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_SlimStack_Plug_02x07_0.4mm_502430-1410.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
