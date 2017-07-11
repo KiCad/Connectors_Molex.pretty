@@ -60,7 +60,7 @@
   (pad 20 smd rect (at 11.875 -2.44) (size 0.8 1.9) (drill 0) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 14.725 2.44) (size 1.3 3.35) (drill 0) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -14.725 2.44) (size 1.3 3.35) (drill 0) (layers F.Cu F.Paste F.Mask))
-  (model Connectors_Molex.3dshapes/Molex_Panelmate-53780-2070_20x1.25mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_Panelmate-53780-2070_20x1.25mm_Angled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

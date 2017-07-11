@@ -34,4 +34,9 @@
   (pad 5 thru_hole circle (at 29.96 3.18) (size 3 3) (drill 1.78) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 37.45 0) (size 3 3) (drill 1.78) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 37.45 3.18) (size 3 3) (drill 1.78) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_Sabre_43160-0X06_06x7.49mm_Vertical.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

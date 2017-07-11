@@ -42,7 +42,7 @@
   (pad 3 smd rect (at 1.2 -1.8875) (size 0.7 1.2) (drill 0) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 2.35 1.8875) (size 0.7 1) (drill 0) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -2.35 1.8875) (size 0.7 1) (drill 0) (layers F.Cu F.Paste F.Mask))
-  (model Connectors_Molex.3dshapes/Molex_Pico-EZmate_03x1.20mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_Pico-EZmate_03x1.20mm_Angled.wrl
     (at (xyz 0.0 0.08267716535433071 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
