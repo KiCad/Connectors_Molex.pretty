@@ -145,7 +145,7 @@
   (pad "" np_thru_hole circle (at 8.43 5 270) (size 3 3) (drill 3) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 8.43 -5.705 270) (size 3.5 3.5) (drill 3) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 8.43 25.705 270) (size 3.5 3.5) (drill 3) (layers *.Cu *.Mask))
-  (model Connectors_Molex.3dshapes/Molex_MiniFit-SR-43915-xx06_2x03x10.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_MiniFit-SR-43915-xx06_2x03x10.00mm_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
