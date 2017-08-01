@@ -50,7 +50,7 @@
   (fp_text user %R (at 3.75 -4.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model Connectors_Molex.3dshapes/Molex_NanoFit_1x04x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_NanoFit_1x04x2.50mm_Angled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
