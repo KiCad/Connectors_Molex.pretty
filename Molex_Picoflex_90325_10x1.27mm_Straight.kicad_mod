@@ -62,7 +62,7 @@
   (pad 8 thru_hole circle (at 2.54 8.89) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 0 10.16) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 2.54 11.43) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_Picoflex_90325_06x1.27mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_Picoflex_90325_10x1.27mm_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
