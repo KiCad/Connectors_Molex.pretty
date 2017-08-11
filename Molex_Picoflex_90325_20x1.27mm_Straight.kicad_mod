@@ -1,6 +1,6 @@
 (module Molex_Picoflex_90325_20x1.27mm_Straight (layer F.Cu) (tedit 598C94FF)
   (descr http://www.molex.com/pdm_docs/sd/903250004_sd.pdf)
-  (tags "Picoflex PF-50 Header, Vertical, Low Profile, with PCB Pegs")
+  (tags "Picoflex PF-50 Header Vertical Low Profile with PCB Pegs")
   (fp_text reference REF** (at 0.58 -3.85) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
