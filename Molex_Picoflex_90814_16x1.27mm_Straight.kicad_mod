@@ -1,6 +1,7 @@
-(module Molex_Picoflex_90814_16x1.27mm_Straight (layer F.Cu) (tedit 59A872E0)
+(module Molex_Picoflex_90814_16x1.27mm_Straight (layer F.Cu) (tedit 59A8745A)
   (descr "Molex Picoflex, single row, top entry type, SMD, PN:90814")
   (tags "connector molex picoflex")
+  (attr smd)
   (fp_text reference REF** (at 3 -4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
