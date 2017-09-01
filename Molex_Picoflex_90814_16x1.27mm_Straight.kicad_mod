@@ -1,4 +1,4 @@
-(module Molex_Picoflex_90814_16x1.27mm_Straight (layer F.Cu) (tedit 59A99CEE)
+(module Molex_Picoflex_90814_16x1.27mm_Straight (layer F.Cu) (tedit 59A99E54)
   (descr "Molex Picoflex, single row, top entry type, SMD, PN:90814")
   (tags "connector molex picoflex")
   (attr smd)
@@ -28,6 +28,7 @@
   (fp_line (start -4.25 11.46) (end -4.25 -11.46) (layer F.CrtYd) (width 0.05))
   (fp_line (start -3.32 -11.46) (end -4.25 -11.46) (layer F.CrtYd) (width 0.05))
   (fp_line (start 4.25 -12.3) (end -0.76 -12.3) (layer F.CrtYd) (width 0.05))
+  (fp_line (start -4.5 -10.53) (end -4.5 -7.53) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -3 -9.53) (size 2 1.2) (layers F.Cu F.Mask F.Paste))
   (pad 3 smd rect (at -3 -6.99) (size 2 1.2) (layers F.Cu F.Mask F.Paste))
   (pad 5 smd rect (at -3 -4.45) (size 2 1.2) (layers F.Cu F.Mask F.Paste))
