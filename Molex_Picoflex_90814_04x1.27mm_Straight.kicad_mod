@@ -59,7 +59,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_Picoflex_90814_04x1.27mm_Straight.wrl
-    (at (xyz 0 0 0))
+    (at (xyz 1 1 1))
     (scale (xyz 0 0 0))
     (rotate (xyz 0 0 0))
   )
