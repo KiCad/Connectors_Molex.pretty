@@ -1,4 +1,4 @@
-(module Molex_MicroFit_3.0-43045-1419_14x3.00mm_Straight (layer F.Cu) (tedit 59BEB8C0)
+(module Molex_MicroFit_3.0-43045-1419_14x3.00mm_Straight (layer F.Cu) (tedit 59C2A8C0)
   (descr "Molex Micro-Fit 3.0 connector, PN:43045-1419, top entry type, SMDhttp://www.molex.com/pdm_docs/sd/430450219_sd.pdf")
   (tags "conn molex micro fit 3.0")
   (attr smd)
@@ -86,7 +86,7 @@
   )
   (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1419_14x3.00mm_Straight.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0 0 0))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
