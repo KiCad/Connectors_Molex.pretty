@@ -1,4 +1,4 @@
-(module Molex_Picoflex_90325_06x1.27mm_Straight (layer F.Cu) (tedit 59A849A4)
+(module Molex_Picoflex_90325_06x1.27mm_Straight (layer F.Cu) (tedit 59C2AACE)
   (descr "Molex Picoflex, single row, top entry type, through hole, PN:90325")
   (tags "connector molex picoflex")
   (fp_text reference REF** (at 0.5 -3.9) (layer F.SilkS)
@@ -41,7 +41,7 @@
   )
   (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_Picoflex_90325_06x1.27mm_Straight.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0 0 0))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
