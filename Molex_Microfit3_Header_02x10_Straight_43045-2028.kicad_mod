@@ -37,4 +37,9 @@
   (pad 19 thru_hole circle (at -24 -3) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask))
   (pad 20 thru_hole circle (at -27 -3) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 3 -3.94) (size 1.1 1.1) (drill 1.1) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_Microfit3_Header_02x10_Straight_43045-2028.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

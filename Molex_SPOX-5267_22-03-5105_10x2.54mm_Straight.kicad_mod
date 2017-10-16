@@ -31,7 +31,7 @@
   (pad 8 thru_hole oval (at 17.78 0) (size 2 2.6) (drill 1.2) (layers *.Cu *.Mask))
   (pad 9 thru_hole oval (at 20.32 0) (size 2 2.6) (drill 1.2) (layers *.Cu *.Mask))
   (pad 10 thru_hole oval (at 22.86 0) (size 2 2.6) (drill 1.2) (layers *.Cu *.Mask))
-  (model Connectors_Molex.3dshapes/Molex_SPOX-5267_22-03-5105_10x2.54mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_SPOX-5267_22-03-5105_10x2.54mm_Straight.wrl
     (at (xyz 0.45 0.023622 0.114173))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

@@ -30,4 +30,9 @@
   (pad 3 thru_hole circle (at 14.98 3.18) (size 3 3) (drill 1.78) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at -4.75 -0.25) (size 4 4) (drill 3) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 19.73 -0.25) (size 4 4) (drill 3) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_Sabre_43160-XX03_03x7.49mm_Vertical_BoardLock.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
