@@ -1,5 +1,5 @@
-(module Molex_SlimStack_Receptacle_2x40_Pitch0.4mm_502430-8030 (layer F.Cu) (tedit 59E4FF82)
-  (descr "Molex SlimStack receptacle, 02x40 contacts 0.4mm pitch 4mm height, http://www.molex.com/pdm_docs/sd/5024307030_sd.pdf")
+(module Molex_SlimStack_Receptacle_2x40_Pitch0.4mm_502430-8030 (layer F.Cu) (tedit 59E50042)
+  (descr "Molex SlimStack plug, 02x40 contacts, 0.4mm pitch, 0.8mm height, SMT, http://www.molex.com/pdm_docs/sd/5024307030_sd.pdf")
   (tags "connector molex slimstack 502430-8030")
   (attr smd)
   (fp_text reference REF** (at 0 -2.39) (layer F.SilkS)
